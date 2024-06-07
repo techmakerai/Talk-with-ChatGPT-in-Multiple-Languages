@@ -19,6 +19,6 @@ In addition, you must set the API key from OpenAI as a system environment variab
 ```python
 client = OpenAI(api_key="this is your API key")
 ```
-
+You may need to create a Python virtual environment first.
 
 

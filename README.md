@@ -1,7 +1,7 @@
 # Talk-with-ChatGPT-in-Multiple-Languages
 A voice assistant (chatbot) built with Python and OpenAI ChatGPT API for multilanguage conversation 
  
-Following the YouTube video here to learn more about this code: 
+Following the YouTube video here to learn more about this code:    
 https://youtu.be/kIKgl3jDilY
 
 Before you can run this code on your computer, you will need to install the following packages on your computer to run this code: 
